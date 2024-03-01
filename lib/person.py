@@ -38,6 +38,7 @@ class Person:
     def name(self):
         return self._name
 
+    
     @property
     def job(self):
         return self._job
